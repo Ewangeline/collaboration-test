@@ -1,1 +1,1 @@
-collaboration-test
+Collaboration test
